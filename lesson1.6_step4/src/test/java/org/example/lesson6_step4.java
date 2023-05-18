@@ -10,8 +10,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class lesson6_step4 {
     WebDriver driver = new ChromeDriver();
 
-    public lesson6_step4() {
-    }
 
     @Before
     public void beforeTest() {
